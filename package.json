@@ -1,5 +1,8 @@
 {
-  "name": "paged-request",
+  "name": "@hypnosphi/paged-request",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Simplified requests for paged (paginated) content.",
   "version": "2.0.1",
   "homepage": "https://github.com/jonschlinkert/paged-request",
